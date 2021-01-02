@@ -1,16 +1,21 @@
-### Hi there 👋
+### Auchefanse tel y'profil
 
-<!--
-**Naquino14/Naquino14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a hobbyist game dev, gamer, and c# addict.
+I also like to make things [like this](https://www.google.com/amp/s/amp.reddit.com/r/hoggit/comments/fvr1jl/i_see_alls_yalls_nice_pcs_and_hotas_setups_and/)
 
-Here are some ideas to get you started:
+Condiser checking out my game *Caliber Sprint*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Its currently a wip and will be out sometime next year.
+
+[the game is posted here](https://naquino14.itch.io/caliber-sprint)
+
+### Profile Stats
+[![Naquino14's github stats](https://github-readme-stats.vercel.app/api?username=naquino14&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naquino14)](https://github.com/anuraghazra/github-readme-stats)
+
+### Links
+
+* [My Website](http://naquino14.c1.biz)
+* [My Itch Page](https://naquino14.itch.io)
+* [My Youtube](https://m.youtube.com/channel/UCXxIB63hD8_aQd82uNT8Iug)
+* My Discord: Vinetta#5601 (subject to change)
