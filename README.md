@@ -10,9 +10,9 @@ Its currently a wip and will be out sometime next year.
 [the game is posted here](https://naquino14.itch.io/caliber-sprint)
 
 ### Profile Stats
-[![Naquino14's github stats](https://github-readme-stats.vercel.app/api?username=naquino14&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Naquino14's github stats](https://github-readme-stats.vercel.app/api?username=naquino14&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naquino14)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naquino14&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 
