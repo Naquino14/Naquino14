@@ -1,14 +1,12 @@
 ### Auchefanse tel y'profil
 
 Im a hobbyist game dev, gamer, and c# addict.
+Im also an aspiring cryptologist.
+
 I also like to make things [like this](https://www.google.com/amp/s/amp.reddit.com/r/hoggit/comments/fvr1jl/i_see_alls_yalls_nice_pcs_and_hotas_setups_and/)
 
-Condiser checking out my game *Caliber Sprint*
-
-Its currently a wip and will be out sometime next year.
-
-[the game is posted here](https://naquino14.itch.io/caliber-sprint)
-(currently unlisted since i dont know much abt itch :/)
+### Check out the security suite im currently working on called `ADIS`. 
+It consists of ACH-1, ARC-128, AKG-1, and ADISTLS. These will be integrated together in a demo project im dubbing ConsoleCord!
 
 ### Profile Stats
 [![Naquino14's github stats](https://github-readme-stats.vercel.app/api?username=naquino14&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
