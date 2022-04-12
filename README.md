@@ -1,4 +1,4 @@
-### Auchefanse tel y'profil
+### Welcome to my profile!
 
 Im a hobbyist game dev, gamer, and c# addict.
 Im also an aspiring cryptologist.
@@ -18,4 +18,4 @@ It consists of ACH-1, ARC-128, AKG-1, and ADISTLS. These will be integrated toge
 * [My Website](http://naquino14.c1.biz)
 * [My Itch Page](https://naquino14.itch.io)
 * [My Youtube](https://m.youtube.com/channel/UCXxIB63hD8_aQd82uNT8Iug)
-* My Discord: Vinetta#5601 (subject to change)
+* My Discord: Vinetta#4761 (subject to change)
