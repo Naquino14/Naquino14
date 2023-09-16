@@ -2,15 +2,14 @@
 
 Hey there! Im Nate, a CS student at Rochester Institute of Technology.
 
-I write primarily C# and TypeScript code, but I want to learn more languages!
+I write primarily C/C++, C# and TypeScript code, but I want to learn more languages!
 
-I like full stack and algorithm development, oop, functional programming, learning new concepts, computers, and gaming.
+I like embedded and algorithm development, oop, functional programming, learning new concepts, computers, and gaming.
 
 ## I am open to work!
-I am seeking positions over the summer of 2023 as:
-* Intern
-* Research lab assistant (paid or unpaid)
-* Co-op program
+I am seeking positions over the summer/fall of 2024 as:
+* Embedded software co-op
+* Embedded software intern
 
 ### Shoot me an [E-Mail](mailto:naquino14@outlook.com)!
 
@@ -31,4 +30,4 @@ Its a house service I am developing for my organization, the [Computer Science H
 * [My Website](http://nateaq.0x.no/)
 * [Linkedin](https://www.linkedin.com/in/nathaniel-aquino)
 * [E-Mail](mailto:naquino14@outlook.com)
-* My Discord: Vinetta#0451 (subject to change)
+* My Discord: Vinetta
