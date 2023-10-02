@@ -12,6 +12,7 @@ I am seeking positions over the summer/fall of 2024 as:
 * Embedded software intern
 
 ### Shoot me an [E-Mail](mailto:naquino14@outlook.com)!
+[My GPG key for secure messaging.](https://csh.rit.edu/~fish/public.pgp)
 
 ___
 
