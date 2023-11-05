@@ -6,10 +6,10 @@ I write primarily C/C++, C# and TypeScript code, but I want to learn more langua
 
 I like embedded and algorithm development, oop, functional programming, learning new concepts, computers, and gaming.
 
-## I am open to work!
-I am seeking positions over the summer/fall of 2024 as:
-* Embedded software co-op
-* Embedded software intern
+## ~~I am open to work!~~
+~~I am seeking positions over the summer/fall of 2024 as:~~
+* ~~Embedded software co-op~~
+* ~~Embedded software intern~~
 
 ### Shoot me an [E-Mail](mailto:naquino14@outlook.com)!
 [My GPG key for secure messaging.](https://csh.rit.edu/~fish/public.pgp)
@@ -31,4 +31,5 @@ Its a house service I am developing for my organization, the [Computer Science H
 * [My Website](http://nateaq.0x.no/)
 * [Linkedin](https://www.linkedin.com/in/nathaniel-aquino)
 * [E-Mail](mailto:naquino14@outlook.com)
+* [Resume](https://csh.rit.edu/~fish/Nathaniel%20Aquino%20-%20Resume.pdf)
 * My Discord: Vinetta
