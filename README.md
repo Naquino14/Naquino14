@@ -12,8 +12,7 @@ I like embedded and algorithm development, oop, functional programming, learning
 * ~~Embedded software intern~~
 
 ### Shoot me an [E-Mail](mailto:naquino14@outlook.com)!
-~~[My GPG key for secure messaging.](https://csh.rit.edu/~fish/public.pgp)~~
-This key is outdated. I will be getting a new one soon.
+[My GPG key for secure messaging.](https://csh.rit.edu/~fish/Nathaniel%20Aquino_0x426C56DD_public.asc)
 
 ___
 
