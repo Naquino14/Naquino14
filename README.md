@@ -24,6 +24,6 @@ It is a keyboard PCB from scratch with augmented QMK firmware. It will support e
 
 * [My Website](http://nateaq.0x.no/)
 * [Linkedin](https://www.linkedin.com/in/nathaniel-aquino)
-* [E-Mail](mailto:naquino14@outlook.com)
+* [E-Mail](mailto:naquino14isaboss@gmail.com)
 * [Resume](https://csh.rit.edu/~fish/Nathaniel%20Aquino%20-%20Resume.pdf)
 * My Discord: @roc_innerloop
