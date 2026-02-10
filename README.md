@@ -6,7 +6,7 @@ I write primarily C/C++, C# and TypeScript code, but I want to learn more langua
 
 I like embedded and algorithm development, oop, functional programming, learning new concepts, computers, and gaming.
 
-### Shoot me an [E-Mail](mailto:naquino14isaboss@gmail.com)!
+### Shoot me an [E-Mail](mailto:naquino15@outlook.com)!
 
 ___
 
@@ -24,6 +24,6 @@ It is a keyboard PCB from scratch with augmented QMK firmware. It will support e
 
 * [My Website](http://nateaq.0x.no/)
 * [Linkedin](https://www.linkedin.com/in/nathaniel-aquino)
-* [E-Mail](mailto:naquino14isaboss@gmail.com)
+* [E-Mail](mailto:naquino15@outlook.com)
 * [Resume](https://csh.rit.edu/~fish/Nathaniel%20Aquino%20-%20Resume.pdf)
 * My Discord: @roc_innerloop
