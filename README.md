@@ -16,9 +16,9 @@ It is a keyboard PCB from scratch with augmented QMK firmware. It will support e
 [Heres the repo.](https://github.com/Naquino14/ND68)
 
 ### Profile Stats
-[![Naquino14's github stats](https://github-readme-stats.vercel.app/api?username=naquino14&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Naquino14's github stats](https://github-stats-extended.vercel.app/api?username=naquino14&show_icons=true&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naquino14&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=naquino14&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
 
 ### Links
 
